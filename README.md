@@ -33,3 +33,25 @@ SDA first lab
 #### y(x) = f2(2x³ + 8x²), x ∈ (–∞, –19) ∪ (–3,0]
 
 ## Блок схеми
+![](https://github.com/myfl1k/olshanivskyi_lab1/blob/main/pictures_for_lab/Lab1_ex1_method1.drawio.png)
+![](https://github.com/myfl1k/olshanivskyi_lab1/blob/main/pictures_for_lab/Lab1_ex1_method2.drawio.png)
+![](https://github.com/myfl1k/olshanivskyi_lab1/blob/main/pictures_for_lab/Lab1_ex2_method1.drawio.png)
+![](https://github.com/myfl1k/olshanivskyi_lab1/blob/main/pictures_for_lab/Lab1_ex2_method2.drawio.png)
+
+## Програмний код
+#### Перша прогама перший метод (Lab1_ex1_method1)
+```c
+
+```
+#### Перша прогама другий метод (Lab1_ex1_method2)
+```c
+
+```
+#### Друга прогама перший метод (Lab1_ex2_method1)
+```c
+
+```
+#### Друга прогама другий метод (Lab1_ex2_method2)
+```c
+
+```
